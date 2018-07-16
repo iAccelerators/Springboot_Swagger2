@@ -4,7 +4,7 @@ Swagger2 Dependency :
 
 ```xml
 
-    <dependency>
+    		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger-ui</artifactId>
 			<version>2.8.0</version>
